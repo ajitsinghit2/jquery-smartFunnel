@@ -1,0 +1,6 @@
+[
+    { "value": 100, "label": "Registered", "color": "#FABB3D" },
+    { "value": 75, "label": "Interested", "color": "#78CD51" },
+    { "value": 50, "label": "Potential", "color": "#67C2EF" },
+    { "value": 25, "label": "Buyer", "color": "#FA603D" }
+]
